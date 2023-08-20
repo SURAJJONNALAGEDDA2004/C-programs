@@ -1,2 +1,2 @@
 # C-programs
-Some Programs in C languages done in 1st year
+Some Programs in C language done in 1st year
